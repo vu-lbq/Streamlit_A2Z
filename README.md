@@ -5,5 +5,5 @@ This repository is used for learning Streamlit with examples
 
 00. Simple Stock Price App
 
-<img src="[drawing.jpg](https://github.com/user-attachments/assets/e8baf62d-647e-4f71-81d5-979af3f68ab7)" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/e8baf62d-647e-4f71-81d5-979af3f68ab7" alt="drawing" width="200"/>
 

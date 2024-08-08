@@ -3,5 +3,7 @@ Streamlit - a faster way to build and share web apps for data science and machin
 
 This repository is used for learning Streamlit with examples
 
-![image](https://github.com/user-attachments/assets/e8baf62d-647e-4f71-81d5-979af3f68ab7)
+00. Simple Stock Price App
+
+<img src="[drawing.jpg](https://github.com/user-attachments/assets/e8baf62d-647e-4f71-81d5-979af3f68ab7)" alt="drawing" width="200"/>
 

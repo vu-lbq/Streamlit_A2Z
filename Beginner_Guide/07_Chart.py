@@ -10,7 +10,7 @@ np.random.randn(10, 2),
 columns=['a', 'b'])
 
 # Defining Chart
-chart = alt.Chart(df).mark_bar().encode(
+chart = alt.Chart(df).mark_circle().encode(
 x='a', y='b',  tooltip=['a', 'b'])
 
 # Defining Chart in write() function
